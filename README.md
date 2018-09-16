@@ -1,10 +1,9 @@
 # fresh-demo
 
-<<<<<<< HEAD
 here am in master repo
 
 add from master repo
-=======
+
 ## Developer
 
 ## Staging
@@ -14,5 +13,3 @@ add from master repo
 ## 1st Feature
 
 ## 2nd Feature
-
->>>>>>> small-feature
